@@ -11,10 +11,6 @@ use pocketmine\world\World;
 
 class DayTimeTask extends Task
 {
-    public function __construct()
-    {
-        
-    }
 
     public function onRun(): void
     {
