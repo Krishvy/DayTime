@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Krishvy/DayTime
+build-by-default: true
+branches:
+- main
+projects:
+  DayTime:
+    path: ""
+...
